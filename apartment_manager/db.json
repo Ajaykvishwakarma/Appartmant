@@ -1,0 +1,32 @@
+{
+  "flat": [
+    {
+      "name": "ajay",
+      "gender": "male",
+      "age": "23",
+      "id": 1
+    }
+  ],
+  "owner": [
+    {
+      "type": "Owner",
+      "block": "A",
+      "no": "1",
+      "id": 2
+    }
+  ],
+  "register": [
+    {
+      "email": "ajaykv054@gmail.com",
+      "password": "12345",
+      "mobile": "ajay",
+      "id": 1
+    },
+    {
+      "email": "ajaykv054@gmail.com",
+      "password": "ajay",
+      "mobile": "12323",
+      "id": 2
+    }
+  ]
+}
